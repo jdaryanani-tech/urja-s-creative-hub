@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <title>Aroma Institute of Cafe & Hospitality Management | India's Premier Hospitality Academy</title>
+    <meta name="description" content="Aroma Institute of Cafe & Hospitality Management - India's practical, industry-integrated hospitality academy. Learn barista skills, brewing, mixology, and café entrepreneurship." />
+    <meta property="og:title" content="Aroma Institute of Cafe & Hospitality Management" />
+    <meta property="og:description" content="Creating the Next Generation of Café Professionals & Founders. India's practical, industry-integrated hospitality academy." />
+    <meta property="og:type" content="website" />
+    <meta name="cashfree-verification" content="Brahmleenkaur Lakhwindersingh Jabbal" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    <link rel="preload" href="/images/about-bg.mp4" as="video" type="video/mp4">
+    <link rel="preload" href="/images/training-bg.mp4" as="video" type="video/mp4">
+    <link rel="preload" href="/images/placement-bg.mp4" as="video" type="video/mp4">
+    <script type="module" crossorigin src="/assets/index-TU-0Z7XU.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BAYfyF07.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  <script src="https://replit-cdn.com/replit-pill/replit-pill.global.js" data-referral-code="t272incbmwbb" data-repl-id="8b0798a2-cd57-4204-a5e7-22d3adc8cafe"></script></body>
+</html>
